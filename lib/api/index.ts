@@ -1,5 +1,5 @@
 import { problemService } from "./problemService";
-import { submissionServer } from "./submissionService";
+import { submissionService } from "./submissionService";
 
 export type {
   Problem,

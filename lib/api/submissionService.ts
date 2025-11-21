@@ -11,7 +11,7 @@ const apiClient: AxiosInstance = axios.create({
     },
 });
 
-export const submissionServer = {
+export const submissionService = {
     // Health check
     ping: async () => {
         try {
